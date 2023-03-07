@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = apitienda
+build_property.RootNamespace = apitienda
+build_property.ProjectDir = C:\Users\DESARROLLADOR 8.0\Desktop\Modal\Platzi\WEB API\apitienda\apitienda\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DESARROLLADOR 8.0\Desktop\Modal\Platzi\WEB API\apitienda\apitienda
+build_property._RazorSourceGeneratorDebug = 
